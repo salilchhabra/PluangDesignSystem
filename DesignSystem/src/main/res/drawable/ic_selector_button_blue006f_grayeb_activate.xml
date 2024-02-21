@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/round_grayeb_corners_44_solid_body" android:state_activated="false" />
+    <item android:drawable="@drawable/ripple_blue0064_blue006f_corner_44" android:state_activated="true" />
+
+</selector>
