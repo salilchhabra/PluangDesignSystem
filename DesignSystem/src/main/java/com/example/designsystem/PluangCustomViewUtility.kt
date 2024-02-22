@@ -6,7 +6,7 @@ import android.view.View
 import androidx.appcompat.widget.AppCompatImageView
 import androidx.appcompat.widget.AppCompatTextView
 import androidx.core.content.ContextCompat
-import com.example.designcomponents.R
+import com.example.designsystem.R
 
 enum class ChipState {
     INACTIVE, ACTIVE_PRIMARY, ACTIVE_SECONDARY, DISABLED, DANGER, WITHOUT_BACKGROUND

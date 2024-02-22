@@ -4,7 +4,7 @@ import android.content.Context
 import android.util.AttributeSet
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.core.content.ContextCompat
-import com.example.designcomponents.R
+import com.example.designsystem.R
 
 class CustomBannerWithButtonLayout : ConstraintLayout {
     constructor(context: Context) : super(context) {

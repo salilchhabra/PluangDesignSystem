@@ -6,7 +6,7 @@ import android.util.AttributeSet
 import android.util.TypedValue
 import android.view.View
 import androidx.core.content.ContextCompat
-import com.example.designcomponents.R
+import com.example.designsystem.R
 import com.google.android.material.tabs.TabLayout
 
 class CustomChipTabLayout : TabLayout {

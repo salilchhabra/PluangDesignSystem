@@ -9,8 +9,7 @@ import android.view.View
 import android.widget.TextView
 import androidx.core.content.ContextCompat
 import androidx.core.content.res.ResourcesCompat
-import com.example.designcomponents.R
-import com.google.android.material.internal.ViewUtils.dpToPx
+import com.example.designsystem.R
 import com.google.android.material.tabs.TabLayout
 
 class CustomTabLayout : TabLayout {
