@@ -3,6 +3,10 @@ plugins {
     id 'org.jetbrains.kotlin.android'
 }
 apply plugin: 'maven-publish'
+
+//def localPropertiesFile = rootProject.file("local.properties")
+//def localProperties = new Properties()
+//localProperties.load(new FileInputStream(localPropertiesFile))
 android {
     namespace 'com.example.designsystem'
     compileSdk 33
@@ -41,7 +45,7 @@ dependencies {
     implementation 'com.airbnb.android:lottie:3.4.0'
 }
 def getVersionName = { ->
-    return "1.0.1"
+    return "1.0.2"
 }
 
 def getArtificatId = { ->
@@ -90,7 +94,7 @@ publishing {
                      ** Set env variable GPR_USER & GPR_API_KEY if not adding a properties file**/
 
                     username = "salilchhabra"
-                    password = "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"
+                    password = "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"
                 }
             }
         }
