@@ -1,4 +1,4 @@
-package com.example.designcomponents.ui
+package com.example.designsystem
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -6,7 +6,6 @@ import android.view.View
 import androidx.appcompat.widget.AppCompatImageView
 import androidx.appcompat.widget.AppCompatTextView
 import androidx.core.content.ContextCompat
-import com.example.designsystem.R
 
 enum class ChipState {
     INACTIVE, ACTIVE_PRIMARY, ACTIVE_SECONDARY, DISABLED, DANGER, WITHOUT_BACKGROUND

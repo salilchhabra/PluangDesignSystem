@@ -1,4 +1,4 @@
-package com.example.designcomponents.ui
+package com.example.designsystem
 
 import android.content.Context
 import android.graphics.Typeface
@@ -9,7 +9,6 @@ import android.view.View
 import android.widget.TextView
 import androidx.core.content.ContextCompat
 import androidx.core.content.res.ResourcesCompat
-import com.example.designsystem.R
 import com.google.android.material.tabs.TabLayout
 
 class CustomTabLayout : TabLayout {

@@ -1,4 +1,4 @@
-package com.example.designcomponents.ui
+package com.example.designsystem
 
 import android.content.Context
 import android.graphics.Color

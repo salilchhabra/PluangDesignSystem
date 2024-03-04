@@ -1,10 +1,9 @@
-package com.example.designcomponents.ui
+package com.example.designsystem
 
 import android.content.Context
 import android.util.AttributeSet
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.core.content.ContextCompat
-import com.example.designsystem.R
 
 class CustomBannerWithButtonLayout : ConstraintLayout {
     constructor(context: Context) : super(context) {
