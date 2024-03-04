@@ -45,7 +45,7 @@ dependencies {
     implementation 'com.airbnb.android:lottie:3.4.0'
 }
 def getVersionName = { ->
-    return "1.0.1"
+    return "1.0.4"
 }
 
 def getArtificatId = { ->
